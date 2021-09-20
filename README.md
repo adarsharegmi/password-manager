@@ -1,5 +1,7 @@
 pip install pass-addy
 
+site location:: 
+https://pypi.org/project/pass-addy/
 
 Commands: 5
 1 for system check
